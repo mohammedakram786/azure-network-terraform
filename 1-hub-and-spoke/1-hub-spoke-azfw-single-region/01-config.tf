@@ -5,6 +5,7 @@
 locals {
   username = "azureuser"
   password = "Password123"
+  password2 = "Password786"
   vmsize   = "Standard_DS1_v2"
   psk      = "changeme"
 
